@@ -1,0 +1,2 @@
+O projeto se trata de um robõ de extração de informaçãos do site PJE e SAJ, no qual primeiro ele puxa valores de um proceço de segunda a segunda do PJE, e cria uma planilha com a data do dia/mes/ano.
+Assim que ele ele termina de puxar os processos do PJE, depois ele começa a puxar os valores do SAJ, utilizando a planilha principal já criada com o valores do PJE, com isso por fim, ele finaliza o processo com todos os valores solicitados.
